@@ -177,9 +177,10 @@ Refresh LCD Telemetry & Fan Graphics
 
 ## 👥 Authors & Team
 
-- **Mahmoud El-Adgham** — System Integration, Microcontroller Control Logic & AI Link Driver
+- **Mahmoud El-Adgham** — System Integration, Computer Vision, Speech Recognition Modules & AI Link Driver
 - **Ziad Khalil** — Embedded Drivers & Hardware Circuit Integration
-- **Ali Akram Ali** — Computer Vision & Speech Recognition Modules
+- **Ali Akram Ali** — Microcontroller Control Logic & Final Fabrication
+- **Tarek Mahmoud** — PCB schematic & Motor Driver
 
 ---
 
