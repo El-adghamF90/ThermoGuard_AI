@@ -106,7 +106,7 @@ Compile and upload the firmware files inside `firmware/` using Arduino IDE or Mi
 Clone the repository and install required laptop dependencies:
 
 ```bash
-git clone [https://github.com/El-adghamF90/ThermoGuard_AI.git](https://github.com/El-adghamF90/ThermoGuard_AI.git)
+git clone https://github.com/El-adghamF90/ThermoGuard_AI.git
 cd ThermoGuard_AI
 pip install opencv-python numpy pyserial speechrecognition pyaudio
 ```
